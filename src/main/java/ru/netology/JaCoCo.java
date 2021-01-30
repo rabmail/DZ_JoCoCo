@@ -1,7 +1,7 @@
 package ru.netology;
 
 
-    public static class StatisticsService {
+    public class JaCoCo {
         /**
          * Calculate index of max income
          *
@@ -17,4 +17,4 @@ package ru.netology;
             return current_max;
         }
     }
-}
+
